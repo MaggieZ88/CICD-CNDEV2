@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Fall Winter</fullName>
+        <default>false</default>
+        <label>Fall Winter</label>
+    </customValue>
+    <customValue>
+        <fullName>Spring Summer</fullName>
+        <default>false</default>
+        <label>Spring Summer</label>
+    </customValue>
+    <masterLabel>Season</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

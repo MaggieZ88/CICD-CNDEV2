@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Informazione non corretta</fullName>
+        <default>false</default>
+        <label>Informazione non corretta</label>
+    </customValue>
+    <customValue>
+        <fullName>Informazione corretta/validata</fullName>
+        <default>false</default>
+        <label>Informazione corretta/validata</label>
+    </customValue>
+    <customValue>
+        <fullName>Alert ideogrammi/western</fullName>
+        <default>false</default>
+        <label>Alert ideogrammi/western</label>
+    </customValue>
+    <customValue>
+        <fullName>Informazione fake</fullName>
+        <default>false</default>
+        <label>Informazione fake</label>
+    </customValue>
+    <masterLabel>Warning</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

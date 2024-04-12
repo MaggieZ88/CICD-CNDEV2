@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>en</fullName>
+        <default>true</default>
+        <label>English</label>
+    </customValue>
+    <customValue>
+        <fullName>es</fullName>
+        <default>false</default>
+        <label>Spanish</label>
+    </customValue>
+    <customValue>
+        <fullName>fr</fullName>
+        <default>false</default>
+        <label>French</label>
+    </customValue>
+    <customValue>
+        <fullName>it</fullName>
+        <default>false</default>
+        <label>Italian</label>
+    </customValue>
+    <customValue>
+        <fullName>ja</fullName>
+        <default>false</default>
+        <label>Japanese</label>
+    </customValue>
+    <customValue>
+        <fullName>ko</fullName>
+        <default>false</default>
+        <label>Korean</label>
+    </customValue>
+    <customValue>
+        <fullName>ms</fullName>
+        <default>false</default>
+        <label>Malaysian</label>
+    </customValue>
+    <customValue>
+        <fullName>pt</fullName>
+        <default>false</default>
+        <label>Portugese</label>
+    </customValue>
+    <customValue>
+        <fullName>ru</fullName>
+        <default>false</default>
+        <label>Russian</label>
+    </customValue>
+    <customValue>
+        <fullName>tr</fullName>
+        <default>false</default>
+        <label>Turkish</label>
+    </customValue>
+    <customValue>
+        <fullName>zf</fullName>
+        <default>false</default>
+        <label>Chinese Traditonal</label>
+    </customValue>
+    <customValue>
+        <fullName>zh</fullName>
+        <default>false</default>
+        <label>Chinese Simplified</label>
+    </customValue>
+    <customValue>
+        <fullName>bm</fullName>
+        <default>false</default>
+        <label>Bahasa Melayu</label>
+    </customValue>
+    <customValue>
+        <fullName>th</fullName>
+        <default>false</default>
+        <label>Thai</label>
+    </customValue>
+    <description>Languages for AFSS process</description>
+    <masterLabel>AFSS Languages</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
